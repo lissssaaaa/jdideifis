@@ -1,4 +1,4 @@
-﻿//Задача 2
+﻿/* //Задача 2
 Console.WriteLine("Введи первое число");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введи второе число");
@@ -17,7 +17,7 @@ else
     Console.WriteLine("Оба числа равны");
 }
 Console.ReadKey();
-
+ */
 //Задача 4
 int a = 1;
 int b = 2;
